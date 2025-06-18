@@ -54,4 +54,7 @@ This Python project is designed to **fetch, process, and visualize COVID-19 data
 
 # OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/d40c650a-020b-4006-8b12-687542ca54b6)
+
 ![Image](https://github.com/user-attachments/assets/36bf3670-d55e-462c-a146-d4abd226dfef)
+
