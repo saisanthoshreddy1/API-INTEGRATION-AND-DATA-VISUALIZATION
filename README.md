@@ -52,3 +52,6 @@ This Python project is designed to **fetch, process, and visualize COVID-19 data
 * Time-series plotting with `matplotlib`
 * Handling exceptions and user input in Python
 
+# OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/36bf3670-d55e-462c-a146-d4abd226dfef)
